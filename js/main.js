@@ -26,4 +26,8 @@ $(document).ready(function () {
         $(this).css('cursor', 'pointer');
     })
 
+    $('.icon-email-lg').hover(function () {
+        $(this).css('cursor', 'pointer');
+    })
+
 })
