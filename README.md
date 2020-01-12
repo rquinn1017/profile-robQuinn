@@ -4,5 +4,7 @@
 
 ## Preview
 
-[![My PRofile Preview](img/)]
+[![My PRofile Preview](https://github.com/rquinn1017/profile-robQuinn/blob/master/img/Screenshot%20of%20site.JPG)](https://github.com/rquinn1017/profile-robQuinn/)
 
+
+Deployed Website: https://rquinn1017.github.io/profile-robQuinn/
