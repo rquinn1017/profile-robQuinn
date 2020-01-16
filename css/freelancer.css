@@ -10264,3 +10264,8 @@ form .row:first-child .floating-label-form-group {
 .contact-content {
   text-align: center;
 }
+
+.bg-primary {
+
+  background-image: url("code-background.png");
+}
