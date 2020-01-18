@@ -10097,6 +10097,8 @@ a.text-dark:focus {
 
 .masthead .masthead-avatar {
   width: 15rem;
+  border: 6px solid white;
+  box-shadow: rgba(0, 0, 0, 0.3) 4px 1px 20px 4px;
 }
 
 @media (min-width: 992px) {
@@ -10267,6 +10269,5 @@ form .row:first-child .floating-label-form-group {
 }
 
 .bg-primary {
-
   background-image: url("code-background.png");
 }
