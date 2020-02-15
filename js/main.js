@@ -11,7 +11,7 @@ $(document).ready(function () {
     })
 
     $("#weatherDash").on("click", function () {
-        window.open('https://rquinn1017.github.io/WorldOfWeather/')
+        window.open('https://thawing-journey-81610.herokuapp.com/')
     });
 
     $('#weatherDash').hover(function () {
