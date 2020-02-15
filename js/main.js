@@ -10,11 +10,11 @@ $(document).ready(function () {
         $(this).css('cursor', 'pointer');
     })
 
-    $("#weatherDash").on("click", function () {
+    $("#burger").on("click", function () {
         window.open('https://thawing-journey-81610.herokuapp.com/')
     });
 
-    $('#weatherDash').hover(function () {
+    $('#burger').hover(function () {
         $(this).css('cursor', 'pointer');
     })
 
