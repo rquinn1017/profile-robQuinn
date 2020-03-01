@@ -2,8 +2,8 @@
 
 $(document).ready(function () {
 
-    $("#quizGame").on("click", function () {
-        window.open('https://rquinn1017.github.io/Quiz_Game/')
+    $("#vaGreen").on("click", function () {
+        window.open('https://thegreentourist.herokuapp.com/')
     });
 
     $('#quizGame').hover(function () {
