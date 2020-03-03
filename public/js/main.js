@@ -4,7 +4,7 @@ $(document).ready(function () {
         window.open('https://thegreentourist.herokuapp.com/')
     });
 
-    $('#quizGame').hover(function () {
+    $('#vaGreen').hover(function () {
         $(this).css('cursor', 'pointer');
     })
 
@@ -21,6 +21,30 @@ $(document).ready(function () {
     });
 
     $('#stateOfHappiness').hover(function () {
+        $(this).css('cursor', 'pointer');
+    })
+
+    $("#quizGame").on("click", function () {
+        window.open('https://rquinn1017.github.io/Quiz_Game/')
+    });
+
+    $('#quizGame').hover(function () {
+        $(this).css('cursor', 'pointer');
+    })
+
+    $("#weatherDash").on("click", function () {
+        window.open('https://rquinn1017.github.io/WorldOfWeather/')
+    });
+
+    $('#weatherDash').hover(function () {
+        $(this).css('cursor', 'pointer');
+    })
+
+    $("#noteTaker").on("click", function () {
+        window.open('https://lit-wildwood-25379.herokuapp.com/')
+    });
+
+    $('#noteTaker').hover(function () {
         $(this).css('cursor', 'pointer');
     })
 
