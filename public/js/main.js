@@ -1,5 +1,3 @@
-
-
 $(document).ready(function () {
 
     $("#vaGreen").on("click", function () {
